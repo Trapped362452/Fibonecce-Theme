@@ -5,11 +5,11 @@
     --background-tertiary: rgba(32, 32, 32, 0.3);
     --background-secondary-alt: rgba(51, 51, 51, 0.3);
     --channeltextarea-background: rgba(68, 68, 68, 0.4);
-    --background-modifier-accent: rgba(255, 0, 0, 0.1);
-    --divider-color: rgba(255, 0, 0, 0.6);
-    --brand-experiment: rgba(255, 0, 0, 0.6);
-    --text-link: rgba(255, 0, 0, 0.7);
-    --background-accent: rgba(255, 0, 0, 0.5);
+    --background-modifier-accent: rgba(255, 255, 255, 0.1);
+    --divider-color: rgba(255, 255, 255, 0.6);
+    --brand-experiment: rgba(255, 255, 255, 0.6);
+    --text-link: rgba(255, 255, 255, 0.7);
+    --background-accent: rgba(255, 255, 255, 0.5);
     --deprecated-quickswitcher-input-background: rgba(68, 68, 68, 0.6);
     /* --background-floating: rgba(32, 32, 32, .7);*/
     /* --background-modifier-selected */
@@ -51,7 +51,7 @@ background-color:var(--background-primary)!important
 }
 
 .item-3HknzM .item-PXvHYJ .themed-OHr7kt {
-background-color:rgba(255,0,0,0.3)
+background-color:rgba(255,255,255,0.3)
 }
 
 .panels-j1Uci_ {
